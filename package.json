@@ -2,7 +2,7 @@
   "name": "testing-node-apps",
   "version": "1.0.0",
   "description": "The material for learning Testing Node.js Apps",
-  "keywords": [],
+  "keywords": []
   "homepage": "https://github.com/kentcdodds/testing-node-apps",
   "license": "GPL-3.0-only",
   "engines": {
